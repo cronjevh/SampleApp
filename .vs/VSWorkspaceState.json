@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\i18n",
+    "\\i18n\\locales",
+    "\\the-example-app.nodejs",
+    "\\the-example-app.nodejs\\bin",
+    "\\the-example-app.nodejs\\handlers",
+    "\\the-example-app.nodejs\\i18n",
+    "\\the-example-app.nodejs\\i18n\\locales",
+    "\\the-example-app.nodejs\\views",
+    "\\views"
+  ],
+  "SelectedNode": "\\the-example-app.nodejs\\i18n\\locales\\en-US.json",
+  "PreviewInSolutionExplorer": false
+}
